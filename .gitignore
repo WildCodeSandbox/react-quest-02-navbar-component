@@ -1,0 +1,5 @@
+# Never commit that!
+node_modules
+
+# Usually must be tracked, but we don't need it for CodeSandbox
+package-lock.json
